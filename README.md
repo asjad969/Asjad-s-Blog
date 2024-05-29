@@ -1,0 +1,2 @@
+Asjad's Blog
+This blogging platform, built with HTML, CSS, JavaScript, and Bootstrap, allows users to create, like, and delete blog posts. Users can add new posts with a title and content, like posts to toggle their state and color, and delete posts. To use, clone the repository and open index.html in a browser. Customize the CSS and JavaScript within index.html for additional functionality or styling. Contributions are welcome via fork and pull request.
